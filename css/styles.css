@@ -15,6 +15,7 @@
 .nav {
   font-size: 20px;
   color: #61aee6;
+  text-decoration: none;
 }
 
 /*========HERO========*/
@@ -24,6 +25,8 @@
   padding-right: 0px !important;
   background-color: transparent;
   padding-bottom: 0px;
+  padding-top: 0px;
+  margin-top: 0px;
 }
 
 .hero-img {
@@ -112,4 +115,48 @@ i {
 
 .footer .text-center {
   color: #4c4c4c;
+}
+
+
+/*=======second page======*/
+
+td, th {
+  padding: 6px;
+  padding-right: 130px;
+  border-bottom: 1px solid black;
+
+}
+
+
+.img2 {
+  width:180px;
+  height: 163px;
+  margin-right: 10px;
+  padding-bottom: 10px;
+  margin-bottom: 13px;
+
+}
+
+.map{
+  padding-left: 75px;
+}
+
+.p2 {
+  padding-left: 5px;
+  padding-right: 69px;
+  position: center;
+  width: ;
+  height: ;
+}
+
+table {
+  /*margin-top: 40px;
+  border-bottom:2px solid #fff ;*/
+}
+
+
+.table {
+  /*border-bottom:2px solid #fff;
+  padding-left: 5px;
+  width: 100%;*/
 }
